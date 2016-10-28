@@ -3,6 +3,10 @@ public class Staff {
 	private String id;
 	private String name;
 	
+	public Staff() {
+		
+	}
+	
 	public Staff(String id, String name) {
 		this.id = id;
 		this.name = name;
